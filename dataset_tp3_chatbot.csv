@@ -1,0 +1,37 @@
+texto,intencao
+quero ver meu saldo,CONSULTAR_SALDO
+quanto tenho na conta,CONSULTAR_SALDO
+mostrar saldo da conta,CONSULTAR_SALDO
+qual meu saldo atual,CONSULTAR_SALDO
+quanto tenho disponível,CONSULTAR_SALDO
+ver saldo da conta,CONSULTAR_SALDO
+saldo da conta corrente,CONSULTAR_SALDO
+quanto tenho no banco,CONSULTAR_SALDO
+pode mostrar meu saldo,CONSULTAR_SALDO
+consultar saldo,CONSULTAR_SALDO
+queria olhar meu saldo,CONSULTAR_SALDO
+me fala o saldo da conta,CONSULTAR_SALDO
+perdi meu cartão,BLOQUEAR_CARTAO
+roubaram meu cartão,BLOQUEAR_CARTAO
+quero bloquear meu cartão,BLOQUEAR_CARTAO
+cartão foi perdido,BLOQUEAR_CARTAO
+preciso cancelar meu cartão,BLOQUEAR_CARTAO
+bloquear cartão agora,BLOQUEAR_CARTAO
+cartão foi roubado,BLOQUEAR_CARTAO
+cartão desapareceu,BLOQUEAR_CARTAO
+bloqueio de cartão,BLOQUEAR_CARTAO
+como bloquear cartão,BLOQUEAR_CARTAO
+sumiu meu cartão,BLOQUEAR_CARTAO
+não acho meu cartão,BLOQUEAR_CARTAO
+quero aumentar meu limite,AUMENTAR_LIMITE
+preciso de mais limite,AUMENTAR_LIMITE
+aumentar limite do cartão,AUMENTAR_LIMITE
+revisar limite,AUMENTAR_LIMITE
+solicitar aumento de limite,AUMENTAR_LIMITE
+limite do cartão insuficiente,AUMENTAR_LIMITE
+pedir aumento de limite,AUMENTAR_LIMITE
+mais limite no cartão,AUMENTAR_LIMITE
+liberar limite maior,AUMENTAR_LIMITE
+atualizar limite,AUMENTAR_LIMITE
+limite baixo no cartão,AUMENTAR_LIMITE
+preciso elevar meu limite,AUMENTAR_LIMITE
